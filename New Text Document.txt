@@ -2,4 +2,5 @@ hello
 haiii
 tydtydfu
 jfgyui
-git clone 
+git clone
+git push 
